@@ -30,7 +30,7 @@ body {
     width: 900px;
     height: 400px;
     background-color: white;
-    margin: auto;
+    margin: 30px auto auto auto;
     border-radius: 25px;
     padding: 3rem 2rem 2rem 0;
     display: flex;
